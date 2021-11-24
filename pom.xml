@@ -92,7 +92,7 @@
   <scm>
    <connection>scm:git:git@github.com:MaximeNeveux/constraints-validator.git</connection>
    <developerConnection>scm:git:git@github.com:MaximeNeveux/constraints-validator.git</developerConnection>
-   <url>git@github.com:MaximeNeveux/constraints-validator</url>
+   <url>https://github.com/MaximeNeveux/constraints-validator</url>
    <tag>validation-constraints-1.0.0</tag>
 	</scm>
 
