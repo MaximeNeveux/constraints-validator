@@ -6,7 +6,7 @@
   <groupId>net.tncy.mne.validator</groupId>
   <artifactId>validation-constraints</artifactId>
   <version>1.0.0</version>
-  
+
   <parent>
    <groupId>net.tncy</groupId>
    <artifactId>tncy</artifactId>
@@ -88,14 +88,14 @@
       </plugins>
     </pluginManagement>
   </build>
-  
+
   <scm>
-   <connection>scm:git:https://github.com/MaximeNeveux/constraints-validator.git</connection>
-   <developerConnection>scm:git:https://github.com/MaximeNeveux/constraints-validator.git</developerConnection>
+   <connection>scm:git:git@github.com:MaximeNeveux/constraints-validator.git</connection>
+   <developerConnection>scm:git:git@github.com:MaximeNeveux/constraints-validator.git</developerConnection>
    <url>https://github.com/MaximeNeveux/constraints-validator</url>
    <tag>validation-constraints-1.0.0</tag>
 	</scm>
-  
+
   <distributionManagement>
     <repository>
       <id>nexus.tncy.eu</id>
