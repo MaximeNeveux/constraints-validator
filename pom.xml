@@ -107,5 +107,10 @@
       <name>Snapshots</name>
       <url>http://nexus.tncy.eu/repository/maven-snapshots/</url>
     </snapshotRepository>
+    <site>
+      <id>sites.tncy.eu</id>
+      <name>Sites</name>
+      <url>dav:https://mvn.tncy.eu/sites/net.tncy.mne.validators/validation-constraints</url>
+   </site>
   </distributionManagement>
 </project>
